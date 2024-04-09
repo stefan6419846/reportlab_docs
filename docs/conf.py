@@ -14,7 +14,7 @@ metadata = _metadata("reportlab")
 project = "reportlab"
 copyright = metadata["License"]
 author = metadata["Author"]
-release = metadata["Version"]
+version = release = metadata["Version"]
 
 # General configuration
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
