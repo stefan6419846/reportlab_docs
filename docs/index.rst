@@ -7,6 +7,7 @@ Inofficial API documentation for `reportlab`.
    :maxdepth: 1
 
    api
+   CHANGES
 
 
 Unfortunately, `reportlab` does not provide any offical detailed API docs at the moment, just user docs. Although there is some configuration, it appears rather outdated and states:
