@@ -7,6 +7,7 @@ build:
   jobs:
     pre_build:
       - cd docs && python generate_api_rst.py
+      - cd docs && wget https://hg.reportlab.com/hg-public/reportlab/raw-file/tip/CHANGES.md
 
 
 sphinx:
