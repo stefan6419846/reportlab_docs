@@ -26,7 +26,7 @@ def write_automodule(group, module, skip_module_name=False):
         path = path[:-1]
     if ".." in path:
         path = path.replace("..", ".")
-    escaped_path = path.replace(".", "\.")
+    escaped_path = path.replace(".", "\\.")
     underline = "-" * len(escaped_path)
 
     return f"""
