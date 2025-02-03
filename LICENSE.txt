@@ -29,7 +29,7 @@ SUCH DAMAGE.
 ```
 
 This repository with the files required to build the custom documentation is
-subject to the same license, but the the following copyright line:
+subject to the same license, but with the following copyright line:
 
 ```
 Copyright (c) 2024, stefan6419846
